@@ -1,0 +1,16 @@
+
+body {
+ background-color:#000f08;  
+}
+
+#panel {
+  display:block;
+  margin:0 30%;
+  padding: 15px;
+  background-color:#f34213;
+}
+
+#header {
+  text:strong;
+  padding:5px;
+  }
